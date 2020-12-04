@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Icons/Settings.webp</file>
+    <file>Icons/Client.webp</file>
+    <file>Icons/Add.webp</file>
+    <file>Icons/Books.webp</file>
+    <file>Icons/Calendar.png</file>
+    <file>Icons/Delete.webp</file>
+    <file>Icons/Save.webp</file>
+    <file>Icons/Search.webp</file>
+    <file>Icons/Themes.png</file>
+    <file>Icons/Users.webp</file>
+  </qresource>
+</RCC>
